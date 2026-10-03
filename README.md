@@ -1,7 +1,7 @@
 # Adaptive Mesh for Shock Capturing in CFD Analysis of Transonic Airfoil RAE2822
 
 > **Academic Project of Excellence — Politecnico di Milano**  
-> This repository contains the project for the *Computational Fluid Dynamics* course (A.Y. 2025–2026). The work achieved the **maximum possible score** and was so highly praised by the lecturer (Dr. Barbara Re) that it has been officially selected as a **reference model and practical example for future student**.
+> This repository contains the project for the *Computational Fluid Dynamics* course (A.Y. 2025–2026). The work achieved the **maximum possible score** and was so highly praised by the lecturer (Prof. Barbara Re) that it has been officially selected as a **reference model and practical example for future student**.
 
 ## Project Overview
 This report presents a steady two-dimensional CFD analysis of the well-known transonic airfoil **RAE2822**, utilizing the open-source software suite **SU2**. The study investigates the complex flow phenomena and aerodynamic load variations induced by shock waves during transonic flight operations.
