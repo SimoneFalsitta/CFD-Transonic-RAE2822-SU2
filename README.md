@@ -17,7 +17,7 @@ This report presents a steady two-dimensional CFD analysis of the well-known tra
 *   **Mach Sweep Analysis**: Extending the analysis up to supersonic speeds ($M = 1.2$) successfully captured lift and drag coefficient trends, aligning closely with **Prandtl-Glauert** (subsonic) and **Ackeret** (supersonic) linear theories.
 *   **Flow Visualization**: High-fidelity **Numerical Schlieren** imaging successfully visualized complex compressible structures, including the detached bow shock wave at $M = 1.2$.
 
-## 👥 Authors (Group 10)
+## Authors 
 *   **Cuman Filippo** 
 *   **Falsitta Simone**
 *   **Farnetani Carlo**
