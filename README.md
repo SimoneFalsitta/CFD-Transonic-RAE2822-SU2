@@ -16,7 +16,7 @@ This report presents a steady two-dimensional CFD analysis of the well-known tra
 *   **Experimental Validation**: The numerical workflow was thoroughly validated against Airbus wind tunnel data (pETW facility, Case 450), showing exceptional agreement in both pressure coefficient ($C_p$) distributions and lift curves.
 *   **Mach Sweep Analysis**: Extending the analysis up to supersonic speeds ($M = 1.2$) successfully captured lift and drag coefficient trends, aligning closely with **Prandtl-Glauert** (subsonic) and **Ackeret** (supersonic) linear theories.
 *   **Flow Visualization**: High-fidelity **Numerical Schlieren** imaging successfully visualized complex compressible structures, including the detached bow shock wave at $M = 1.2$.
-*   
+  
 ## Project Team & Academic Context
 
 ### Authors & Collaborators:
