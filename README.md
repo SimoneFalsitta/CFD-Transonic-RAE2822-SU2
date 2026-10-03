@@ -19,7 +19,6 @@ This report presents a steady two-dimensional CFD analysis of the well-known tra
   
 ## Project Team & Academic Context
 
-### Authors & Collaborators:
 ## Authors 
 *   **Cuman Filippo** 
 *   **Falsitta Simone**
